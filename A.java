@@ -4,5 +4,6 @@ class A {
         System.out.println("ashish");
         System.out.println("raviS");
         System.out.println("hhghgh");
+        Sytem.out.println("ggggcgc");
     }
 }
